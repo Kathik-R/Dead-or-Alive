@@ -26,5 +26,5 @@ RESULT (Accuracy in Percent):
     Deep Neural Network:        0.77990
 2. Part 2:
     Deep Neural Network:        0.77990
-3. Part 3
+3. Part 3:
     Simple Ensemble Model (Stacking):   0.79425
