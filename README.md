@@ -9,10 +9,10 @@ I have used multiple models for predicting the fate of an individual.
 The three files uploaded in my repository have the following Regression models:
 
 1. Part 1:
-    Linear Regression
-    Random Forest Classifier
-    Support Vector Machines
-    Deep Neural Network
+    Linear Regression;
+    Random Forest Classifier;
+    Support Vector Machines;
+    Deep Neural Network;
 2. Part 2:
     Deep Neural Network
 3. Part 3
@@ -20,10 +20,10 @@ The three files uploaded in my repository have the following Regression models:
     
 RESULT (Accuracy in Percent):
 1. Part 1:
-    Linear Regression:          0.75119
-    Random Forest Classifier:   0.76076
-    Support Vector Machines:    0.74641
-    Deep Neural Network:        0.77990
+    Linear Regression:          0.75119;
+    Random Forest Classifier:   0.76076;
+    Support Vector Machines:    0.74641;
+    Deep Neural Network:        0.77990;
 2. Part 2:
     Deep Neural Network:        0.77990
 3. Part 3:
