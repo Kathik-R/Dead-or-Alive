@@ -28,3 +28,10 @@ RESULT (Accuracy in Percent):
     Deep Neural Network:        0.77990
 3. Part 3:
     Simple Ensemble Model (Stacking):   0.79425
+
+
+MORE ABOUT SIMPLE ENSEMBLE MODEL (STACKING):
+Algorithms which combine multiple Machine Learning techniques to decrease variance (by Bagging), decrease bias (by Boosting) and improve predictions (by Stacking)
+
+STACKING:
+It combines multiple models which are trained on the original training data and their outputs are used as an input for the meta-model.
